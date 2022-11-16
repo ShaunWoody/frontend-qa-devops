@@ -3,5 +3,5 @@ module.exports = defineConfig({
   transpileDependencies: true
 })
 module.exports = {
-  publicPath: '/frontend-qa-devops/'
+  publicPath: '/project name/'
 }
